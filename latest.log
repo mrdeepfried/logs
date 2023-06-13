@@ -1,0 +1,134 @@
+[05:56:53] [main/INFO]: ModLauncher running: args [--username, Mrdeepfried, --version, forge-43.1.47, --gameDir, C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official, --assetsDir, C:\Users\joeda\curseforge\minecraft\Install\assets, --assetIndex, 1.19, --uuid, a26784729a5a4e70ad9d9fb72393524a, --accessToken, ????????, --clientId, MGQyNjI5N2QtMGMyNy00NmY2LTgzNDQtYTViNmE1ZDkxZmRj, --xuid, 2533274893280054, --userType, msa, --versionType, release, --width, 1024, --height, 768, --launchTarget, forgeclient, --fml.forgeVersion, 43.1.47, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[05:56:53] [main/INFO]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.3 by Microsoft; OS Windows 10 arch amd64 version 10.0
+[05:56:53] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/joeda/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2397!/ Service=ModLauncher Env=CLIENT
+[05:56:53] [main/INFO]: Found mod file [1.19.x]-Epic-Knights-Armor-and-Weapons-6.6v.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file alexsmobs-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file AmbientSounds_FORGE_v5.2.1_mc1.19.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file appleskin-forge-mc1.19-2.4.2.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file architectury-6.2.43-forge.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file awesomedungeonend-forge-1.19.2-3.0.0.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file awesomedungeonnether-forge-1.19.2-3.0.0.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file awesomedungeonocean-forge-1.19.2-3.0.0.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file balm-4.5.3.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file betterfpsdist-1.19.1-1.6.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file BHMenu-Forge-1.19.2-1.3.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file BiomesOPlenty-1.19.2-17.1.1.150.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file blockui-1.19-0.0.69-ALPHA.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file Bookshelf-Forge-1.19.2-16.1.5.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file brutalbosses-1.19.1-5.5.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file Cataclysm-0.20-1.19.2-hotfix.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file caveore-1.19.2-2.3.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file citadel-1.12.11-1.19.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file cleancut-mc1.19-4.2-forge.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file clickadv-1.19.2-2.9.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file cloth-config-8.0.75-forge.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file comforts-forge-6.0.0+1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file connectivity-1.19.1-3.3.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file cookingforblockheads-forge-1.19.2-13.3.2.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file CopperDrops-1.19-1.0.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file Copperized-1.19-2.5.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file corail_woodcutter-1.19.2-2.5.0.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file corpse-1.19.2-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file craftingtweaks-forge-1.19-15.1.0.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file CreativeCore_FORGE_v2.8.5_mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file creeperoverhaul-2.0.4-forge.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file curios-forge-1.19.2-5.1.1.0.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file cursery-1.19.2-3.0.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file DeathCounter-1.19.2-1.2.1.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file deeperdarker-forge-1.1.3-forge.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file Delightful-1.19-3.1.1.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file domum_ornamentum-1.19-1.0.83-ALPHA-universal.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file dragonfight-1.19.2-2.4.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file DungeonsArise-1.19-2.1.51-beta.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file dusk-1.19.1-2.2.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file dynview-1.19.1-2.9.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file ecologics-forge-1.19.2-2.1.9.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file EnchantmentDescriptions-Forge-1.19.2-13.0.1.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file Enhanced-Farming-1.19-1.4.5.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file entityculling-forge-1.6.1-mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file fallingthrough-1.19.2-2.6.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file FarmersDelight-1.19-1.2.0.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file farsight-1.19.1-2.0.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file ferritecore-5.0.2-forge.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file geckolib-forge-1.19-3.1.19.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file global_packs-forge-1.19.2-1.14.2_forge.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file goblintraders-1.7.3-1.19.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file HarderSpawners-1.19.2-40.2.23.0.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file hostilevillages-1.19.2-4.1.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file hourglass-1.19.1-1.2.1.1.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file infusedfoods-1.19.2-7.1.4.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file Jade-1.19.1-forge-8.1.1.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file jei-1.19.2-forge-11.3.0.262.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file journeymap-1.19.2-5.9.5-forge.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file kleeslabs-forge-1.19-12.1.0.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file libraryferret-forge-1.19.2-3.0.0.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file limitedchunks-1.19.2-2.4.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file logprot-1.19.1-1.8.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file lootintegrations-1.19.1-1.6.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file memorysettings-1.19.2-2.2.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file minecolonies-1.19.2-1.0.1429-BETA.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file MouseTweaks-forge-mc1.19-2.23.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file multipiston-1.19.2-1.2.25-ALPHA.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file mvs-3.1.3.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file naturalist-forge-2.1.1-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file Neat-1.19-32.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file notenoughcrashes-4.1.8+1.19.2-forge.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.0.10.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file PlayerRevive_FORGE_v2.0.9_mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file polymorph-forge-0.45.0+1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file Rex's-AdditionalStructures-1.19-(v.4.0.1).jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file ScalingHealth-1.19.2-7.0.0+6.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file screenscale-1.19.2-2.3.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file shieldmechanics-1.19.2-3.5.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file silent-lib-1.19.2-7.0.2.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file smoothchunk-1.19.1-2.0.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file SoL-Carrot-1.19.2-1.14.0.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file sophisticatedbackpacks-1.19.2-3.18.24.703.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file sophisticatedcore-1.19.2-0.5.9.117.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file spoornarmorattributes-2.0.6-1.19-forge.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file spoornweaponattributes-4.0.9-1.19-forge.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file storageracks-1.19.2-1.1.4.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file structurize-1.19.2-1.0.492-ALPHA.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file stylecolonies-1.0.3.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file TerraBlender-forge-1.19.2-2.0.1.125.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file The_Graveyard_1.12_(FORGE)_for_1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file Towns-and-Towers-1.19-1.8.2.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file trashslot-forge-1.19-12.0.0.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file TreeChop-1.19.1-0.15.8.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file unstructured-0.5.2[FORGE].jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file vanillaplustools-1.19-1.1.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file wwoo_forge-3.1.7+1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:53] [main/INFO]: Found mod file zmedievalmusic-1.19.2-2.0.jar of type MOD with provider {mods folder locator at C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official\mods}
+[05:56:54] [main/WARN]: Mod file C:\Users\joeda\curseforge\minecraft\Install\libraries\net\minecraftforge\fmlcore\1.19.2-43.1.47\fmlcore-1.19.2-43.1.47.jar is missing mods.toml file
+[05:56:54] [main/WARN]: Mod file C:\Users\joeda\curseforge\minecraft\Install\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.1.47\javafmllanguage-1.19.2-43.1.47.jar is missing mods.toml file
+[05:56:54] [main/WARN]: Mod file C:\Users\joeda\curseforge\minecraft\Install\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.1.47\lowcodelanguage-1.19.2-43.1.47.jar is missing mods.toml file
+[05:56:54] [main/WARN]: Mod file C:\Users\joeda\curseforge\minecraft\Install\libraries\net\minecraftforge\mclanguage\1.19.2-43.1.47\mclanguage-1.19.2-43.1.47.jar is missing mods.toml file
+[05:56:54] [main/INFO]: Found mod file fmlcore-1.19.2-43.1.47.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4565a70a
+[05:56:54] [main/INFO]: Found mod file javafmllanguage-1.19.2-43.1.47.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4565a70a
+[05:56:54] [main/INFO]: Found mod file lowcodelanguage-1.19.2-43.1.47.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4565a70a
+[05:56:54] [main/INFO]: Found mod file mclanguage-1.19.2-43.1.47.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4565a70a
+[05:56:54] [main/INFO]: Found mod file client-1.19.2-20220805.130853-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4565a70a
+[05:56:54] [main/INFO]: Found mod file forge-1.19.2-43.1.47-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4565a70a
+[05:56:54] [main/INFO]: Found 5 dependencies adding them to mods collection
+[05:56:54] [main/INFO]: Found mod file paragon-forge-1.0.3b-1.19x.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@1be59f28
+[05:56:54] [main/INFO]: Found mod file commonality-1.19.2-4.1.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@1be59f28
+[05:56:54] [main/INFO]: Found mod file Registrate-MC1.19-1.1.5.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@1be59f28
+[05:56:54] [main/INFO]: Found mod file apexcore-1.19.2-7.1.8.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@1be59f28
+[05:56:54] [main/INFO]: Found mod file spectrelib-forge-0.8.1+1.19.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@1be59f28
+[05:56:55] [main/INFO]: Compatibility level set to JAVA_17
+[05:56:55] [main/ERROR]: Mixin config mixin.cleancut.json does not specify "minVersion" property
+[05:56:55] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-43.1.47, --gameDir, C:\Users\joeda\curseforge\minecraft\Instances\MineColonies Official, --assetsDir, C:\Users\joeda\curseforge\minecraft\Install\assets, --uuid, a26784729a5a4e70ad9d9fb72393524a, --username, Mrdeepfried, --assetIndex, 1.19, --accessToken, ????????, --clientId, MGQyNjI5N2QtMGMyNy00NmY2LTgzNDQtYTViNmE1ZDkxZmRj, --xuid, 2533274893280054, --userType, msa, --versionType, release, --width, 1024, --height, 768]
+[05:56:55] [main/WARN]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
+[05:56:55] [main/WARN]: Reference map 'memorysettings.refmap.json' for memorysettings.mixins.json could not be read. If this is a development environment you can ignore this message
+[05:56:55] [main/WARN]: Reference map 'fallingthrough.refmap.json' for fallingthrough.mixins.json could not be read. If this is a development environment you can ignore this message
+[05:56:55] [main/WARN]: Reference map 'shieldmechanics.refmap.json' for shieldmechanics.mixins.json could not be read. If this is a development environment you can ignore this message
+[05:56:56] [main/WARN]: Error loading class: vazkii/quark/addons/oddities/inventory/MatrixEnchantingMenu (java.lang.ClassNotFoundException: vazkii.quark.addons.oddities.inventory.MatrixEnchantingMenu)
+[05:56:56] [main/WARN]: @Mixin target vazkii.quark.addons.oddities.inventory.MatrixEnchantingMenu was not found cursery.mixins.json:QuarkEnchanterCompat
+[05:56:56] [main/WARN]: Error loading class: vazkii/quark/addons/oddities/block/be/MatrixEnchantingTableBlockEntity (java.lang.ClassNotFoundException: vazkii.quark.addons.oddities.block.be.MatrixEnchantingTableBlockEntity)
+[05:56:56] [main/WARN]: @Mixin target vazkii.quark.addons.oddities.block.be.MatrixEnchantingTableBlockEntity was not found cursery.mixins.json:QuarkEnchanterTECompat
+[05:56:59] [pool-3-thread-1/INFO]: Building unoptimized datafixer
+[05:57:00] [Render thread/WARN]: Assets URL 'union:/C:/Users/joeda/curseforge/minecraft/Install/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23249!/assets/.mcassetsroot' uses unexpected schema
+[05:57:00] [Render thread/WARN]: Assets URL 'union:/C:/Users/joeda/curseforge/minecraft/Install/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23249!/data/.mcassetsroot' uses unexpected schema
+[05:57:00] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:57:01] [Render thread/INFO]: Setting user: Mrdeepfried
+[05:57:01] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
